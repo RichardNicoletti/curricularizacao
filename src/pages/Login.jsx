@@ -6,7 +6,7 @@ function Login() {
     <div style={{ backgroundColor: '#e0e0e0', minHeight: '100vh', display: 'flex', flexDirection: 'column', alignItems: 'center', paddingTop: '40px' }}>
 
       <Link to="/">
-        <img src="/logo_acapra.png" alt="Logo ACAPRA" style={{ width: '100px', marginBottom: '20px' }} />
+        <img src="public/logo_acapra.png" alt="Logo ACAPRA" style={{ width: '100px', marginBottom: '20px' }} />
       </Link>
 
       {/* Box Login */}
